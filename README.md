@@ -1,6 +1,8 @@
 # `callstack()` (legacy)
 v1 version of [callstack](https://github.com/SALZKARTOFFEEEL/callstack).
 
+I encourage you to **not** use this function if you can use [the v2 version](https://github.com/SALZKARTOFFEEEL/callstack).
+
 ## Definition
 ```autohotkey
 stack := callstack(limit := -1)

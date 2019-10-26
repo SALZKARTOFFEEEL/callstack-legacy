@@ -15,7 +15,7 @@ stack := callstack(limit := -1)
     * `func` – _string_: The **name of the function** the entry of the callstack points to.
 
 ## Example
-```
+```autohotkey
 test1() {
   test2()
 }
